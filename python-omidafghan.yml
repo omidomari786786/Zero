@@ -1,0 +1,19 @@
+pkg update && pkg upgrade
+
+pkg install git
+
+pkg install python2
+
+ git clone https://github.com/omidafghan786786/omid11
+
+cd omid11
+
+python2 omid11
+
+User
+
+ Omid
+
+Password
+
+ Omari
